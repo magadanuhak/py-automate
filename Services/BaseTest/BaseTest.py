@@ -13,7 +13,6 @@ class BaseTest:
         self.__load_config()
         self.__driver = driver
 
-
     def get_endpoint(self, endpoint: str) -> WebDriver:
         self.__driver.get(self.site + endpoint)
 
@@ -30,8 +29,8 @@ class BaseTest:
         self.site = config['site']
 
     @abc.abstractmethod
-    def authorizator(self):
+    def authorizator(self, driver: WebDriver):
         pass
 
-    def authorize(self, authorizationObject):
-       authorizationObject.login()
+    def authorize(self, authorization: AuthorizationInterface):
+        authorization.login()

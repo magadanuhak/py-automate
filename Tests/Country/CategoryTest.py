@@ -5,17 +5,15 @@ from Services.Authorization.AdminAuthorization import AdminAuthorization
 from Services.BaseTest.BaseTest import BaseTest
 
 
-class CountryTest(BaseTest):
+class CategoryTest(BaseTest):
 
     def authorizator(self, driver: WebDriver):
         authorization = AdminAuthorization(driver)
         return authorization
 
-    def test_country_list(self):
-        pass
-        # self.get_driver().implicitly_wait(10)
-
-        # self.get_endpoint('/admin/countries')
+    def test_laravel_page(self):
+        self.get_endpoint('/')
+        # self.get_driver().quit()
 
     def auth_test_country_list(self):
         self.get_driver().find_element(By.XPATH, "//button[@class='shrink-0 flex items-center justify-center "

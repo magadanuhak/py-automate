@@ -1,30 +1,17 @@
 from Services.DriverService import DriverService
-from Tests.Country.CountryTest import CountryTest
+from Services.RunnerService import RunnerService
+from Tests.Country.CategoryTest import CategoryTest
 
 drivers = [
     DriverService.get_chrome(),
 ]
 
 tests = [
-    CountryTest,
+    CategoryTest,
 ]
 
+RunnerService.run_tests_for(drivers, tests)
 
-for driver in drivers:
-    for test in tests:
-        test_methods = [func for func in dir(test) if callable(getattr(test, func)) and func.startswith("test")]
-        auth_test_methods = [func for func in dir(test) if callable(getattr(test, func)) and func.startswith("auth_test")]
-        initializedTest = test(driver)
-
-        for test_method in test_methods:
-            methodCallable = getattr(initializedTest, test_method)
-            methodCallable()
-
-        for auth_test_method in auth_test_methods:
-            initializedTest.authorize(initializedTest.authorizator(driver))
-            methodCallable = getattr(initializedTest, auth_test_method)
-            methodCallable()
-    #
 #
 # f = open('credentials.json')
 #
