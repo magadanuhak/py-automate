@@ -22,9 +22,5 @@ class DriverService:
         return webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
 
     @staticmethod
-    def get_opera() -> WebDriver:
-        return webdriver.Opera(executable_path=OperaDriverManager().install())
-
-    @staticmethod
     def get_brave() -> WebDriver:
         return webdriver.Chrome(service=BraveService(ChromeDriverManager(chrome_type=ChromeType.BRAVE).install()))
