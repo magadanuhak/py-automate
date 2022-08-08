@@ -15,7 +15,7 @@ class CategoryTest(BaseTest):
         self.get_endpoint('/')
         # self.get_driver().quit()
 
-    def auth_test_country_list(self):
+    def auth_test_category_list(self):
         self.get_driver().find_element(By.XPATH, "//button[@class='shrink-0 flex items-center justify-center "
                                                  "w-10 h-10 text-primary-500 rounded-full "
                                                  "filament-sidebar-open-button hover:bg-gray-500/5 "
