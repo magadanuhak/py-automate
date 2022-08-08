@@ -4,6 +4,9 @@ from Tests.Country.CategoryTest import CategoryTest
 
 drivers = [
     DriverService.get_chrome(),
+    DriverService.get_firefox(),
+    DriverService.get_opera(),
+    DriverService.get_brave()
 ]
 
 tests = [

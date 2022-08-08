@@ -8,6 +8,7 @@ class RunnerService:
     def run_tests_for(drivers: list, tests: list) -> None:
 
         for driver in drivers:
+            print('Test in browser ' + driver.__module__)
             for test in tests:
                 test_methods = [func for func in dir(test) if callable(getattr(test, func)) and func.startswith("test")]
                 auth_test_methods = [func for func in dir(test) if

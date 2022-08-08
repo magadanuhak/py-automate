@@ -1,26 +1,30 @@
 import selenium
 from selenium import webdriver
 from selenium.webdriver.remote.webdriver import WebDriver
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.firefox.service import Service as FirefoxService
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.opera import OperaDriverManager
+from selenium.webdriver.chrome.service import Service as BraveService
+from webdriver_manager.core.utils import ChromeType
 
 
 class DriverService:
 
     @staticmethod
     def get_chrome() -> WebDriver:
-        return selenium.webdriver.Chrome()
+        return webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
     @staticmethod
     def get_firefox() -> WebDriver:
-        return selenium.webdriver.Firefox()
+        return webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
 
     @staticmethod
-    def get_safari() -> WebDriver:
-        return selenium.webdriver.Safari()
+    def get_opera() -> WebDriver:
+        return webdriver.Opera(executable_path=OperaDriverManager().install())
 
     @staticmethod
-    def get_edge() -> WebDriver:
-        return selenium.webdriver.Edge()
-
-    @staticmethod
-    def get_chromium_edge() -> WebDriver:
-        return selenium.webdriver.ChromiumEdge()
+    def get_brave() -> WebDriver:
+        return webdriver.Chrome(service=BraveService(ChromeDriverManager(chrome_type=ChromeType.BRAVE).install()))
