@@ -8,8 +8,7 @@ from Services.BaseTest.BaseTest import BaseTest
 class CategoryTest(BaseTest):
 
     def authorizator(self, driver: WebDriver):
-        authorization = AdminAuthorization(driver)
-        return authorization
+        return AdminAuthorization(driver)
 
     def test_laravel_page(self):
         self.get_endpoint('/')
