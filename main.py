@@ -3,8 +3,7 @@ from Services.RunnerService import RunnerService
 from Tests.Category.CategoryTest import CategoryTest
 
 drivers = [
-    DriverService.get_chrome(),
-    DriverService.get_firefox()
+    DriverService.get_chrome()
 ]
 
 tests = [

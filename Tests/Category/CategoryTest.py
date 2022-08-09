@@ -25,7 +25,7 @@ class CategoryTest(BaseTest):
         # Open categories
         self.get_driver().find_element(By.XPATH, "//span[normalize-space()='Categories']").click()
         self.get_driver().implicitly_wait(10)
-        self.get_driver().find_element(By.CSS_SELECTOR, 'body').screenshot('./screenshots/screen' + self.get_driver().__module__ + self.__module__ + '.jpg')
+        self.get_driver().find_element(By.CSS_SELECTOR, 'body').screenshot('./screenshots/screen' + self.get_driver().__module__ + self.__module__ + '.png')
         displayed = self.get_driver().find_element(By.XPATH, "//h1[@class='text-2xl font-bold tracking-tight md:text-3xl filament-header-heading']").is_displayed()
 
         if displayed:
