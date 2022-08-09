@@ -9,6 +9,8 @@ class AdminAuthorization(AuthorizationInterface, ABC):
 
     def login(self) -> WebDriver:
         driver = self.driver
+        driver.delete_all_cookies()
+        driver.refresh()
         driver.fullscreen_window()
         driver.get('https://doit-api.powerit.dev/admin/login')
         driver.implicitly_wait(15)

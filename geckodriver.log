@@ -1,0 +1,730 @@
+1659995465814	geckodriver	INFO	Listening on 127.0.0.1:46593
+1659995465817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEml99q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659995466700	Marionette	INFO	Marionette enabled
+1659995466703	Marionette	INFO	Listening on port 34093
+WebDriver BiDi listening on ws://localhost:46239
+Read port: 34093
+1659995466855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEml99q/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46239/devtools/browser/e6002b4e-0fb7-476b-a3a2-3cb96a6fc922
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659995476819	Marionette	INFO	Stopped listening on port 34093
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659995547417	geckodriver	INFO	Listening on 127.0.0.1:46845
+1659995547421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile80Arpx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659995548143	Marionette	INFO	Marionette enabled
+1659995548146	Marionette	INFO	Listening on port 35881
+WebDriver BiDi listening on ws://localhost:49347
+Read port: 35881
+1659995548330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile80Arpx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49347/devtools/browser/a12258d5-f8bd-41c7-85a5-50cefbbad22a
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659995558521	Marionette	INFO	Stopped listening on port 35881
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659995761216	geckodriver	INFO	Listening on 127.0.0.1:55945
+1659995761720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4JkUHv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659995762422	Marionette	INFO	Marionette enabled
+1659995762425	Marionette	INFO	Listening on port 37043
+WebDriver BiDi listening on ws://localhost:53791
+Read port: 37043
+1659995762642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4JkUHv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53791/devtools/browser/b7a4747d-a597-4dd2-b90c-aeb6038350e8
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659995772136	Marionette	INFO	Stopped listening on port 37043
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1659995888136	geckodriver	INFO	Listening on 127.0.0.1:40001
+1659995888640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletJ8CM0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659995889353	Marionette	INFO	Marionette enabled
+1659995889357	Marionette	INFO	Listening on port 46721
+WebDriver BiDi listening on ws://localhost:60583
+Read port: 46721
+1659995889558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletJ8CM0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60583/devtools/browser/fbd0d642-6bb8-4450-adfe-8d3a59d2b123
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1659995936485	geckodriver	INFO	Listening on 127.0.0.1:33629
+1659995936487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVawxCv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659995937296	Marionette	INFO	Marionette enabled
+1659995937300	Marionette	INFO	Listening on port 35417
+WebDriver BiDi listening on ws://localhost:43257
+Read port: 35417
+1659995937492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVawxCv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43257/devtools/browser/621d06d2-9b9d-4f65-b841-992d6e9bf3d6
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659995955937	Marionette	INFO	Stopped listening on port 46721
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659995957430	Marionette	INFO	Stopped listening on port 35417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659995972460	geckodriver	INFO	Listening on 127.0.0.1:34803
+1659995972463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYiGfk0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659995973182	Marionette	INFO	Marionette enabled
+1659995973185	Marionette	INFO	Listening on port 33227
+WebDriver BiDi listening on ws://localhost:57983
+Read port: 33227
+1659995973374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYiGfk0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57983/devtools/browser/d9ee657d-77b2-4025-9923-048bad8829df
+1659995999030	geckodriver	INFO	Listening on 127.0.0.1:40839
+1659995999033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile13PvRk"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659995999784	Marionette	INFO	Marionette enabled
+1659995999787	Marionette	INFO	Listening on port 37959
+WebDriver BiDi listening on ws://localhost:50457
+Read port: 37959
+1659995999885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile13PvRk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50457/devtools/browser/4fbeeca7-5c4d-4811-b8ab-c5542f32aff1
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659996009710	Marionette	INFO	Stopped listening on port 37959
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659996042704	geckodriver	INFO	Listening on 127.0.0.1:45181
+1659996042707	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKZopXz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659996043436	Marionette	INFO	Marionette enabled
+1659996043439	Marionette	INFO	Listening on port 34767
+WebDriver BiDi listening on ws://localhost:56999
+Read port: 34767
+1659996043552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKZopXz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56999/devtools/browser/9e3136f5-a025-44bb-8bbe-f3a360131f16
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659996053134	Marionette	INFO	Stopped listening on port 34767
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659996140385	geckodriver	INFO	Listening on 127.0.0.1:52491
+1659996140388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8TK6u9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659996141178	Marionette	INFO	Marionette enabled
+1659996141181	Marionette	INFO	Listening on port 42089
+WebDriver BiDi listening on ws://localhost:43969
+Read port: 42089
+1659996141277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8TK6u9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43969/devtools/browser/e9c6b808-fdfe-42fa-a07a-8dd54ad12057
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659996150804	Marionette	INFO	Stopped listening on port 42089
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659996181514	Marionette	INFO	Stopped listening on port 33227
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659996182344	geckodriver	INFO	Listening on 127.0.0.1:35797
+1659996182848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG6OYlq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659996183524	Marionette	INFO	Marionette enabled
+1659996183527	Marionette	INFO	Listening on port 37251
+WebDriver BiDi listening on ws://localhost:50457
+Read port: 37251
+1659996183628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG6OYlq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50457/devtools/browser/6e3acf96-7a8c-46e1-9de7-d17343c42ff7
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659996193121	Marionette	INFO	Stopped listening on port 37251
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1659996201476	geckodriver	INFO	Listening on 127.0.0.1:46661
+1659996201980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLLAziq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659996202684	Marionette	INFO	Marionette enabled
+1659996202687	Marionette	INFO	Listening on port 42625
+WebDriver BiDi listening on ws://localhost:42083
+Read port: 42625
+1659996202914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLLAziq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42083/devtools/browser/28de685c-f57f-4eac-8ee7-656c4cc574cf
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659996212273	Marionette	INFO	Stopped listening on port 42625
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1659996237709	geckodriver	INFO	Listening on 127.0.0.1:41107
+1659996237712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiley4T3hd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659996238457	Marionette	INFO	Marionette enabled
+1659996238460	Marionette	INFO	Listening on port 33849
+WebDriver BiDi listening on ws://localhost:54969
+Read port: 33849
+1659996238566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley4T3hd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54969/devtools/browser/cca1884f-037e-400d-b4c3-d95391e4c6a5
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659996248584	Marionette	INFO	Stopped listening on port 33849
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659996282085	geckodriver	INFO	Listening on 127.0.0.1:55439
+1659996282088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWPtyo9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659996282785	Marionette	INFO	Marionette enabled
+1659996282788	Marionette	INFO	Listening on port 42377
+Read port: 42377
+WebDriver BiDi listening on ws://localhost:35081
+1659996282885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWPtyo9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35081/devtools/browser/b9355b22-be05-4558-9474-edadb2cfea06
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1659996292549	Marionette	INFO	Stopped listening on port 42377
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660023153986	geckodriver	INFO	Listening on 127.0.0.1:47439
+1660023154486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXkyaKJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660023155236	Marionette	INFO	Marionette enabled
+1660023155239	Marionette	INFO	Listening on port 39007
+WebDriver BiDi listening on ws://localhost:46815
+Read port: 39007
+1660023155351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXkyaKJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46815/devtools/browser/09b282ca-c2a6-4403-8dac-fcc1168dc350
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1660023164837	Marionette	INFO	Stopped listening on port 39007
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660023412800	geckodriver	INFO	Listening on 127.0.0.1:51145
+1660023413303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHmHdsT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660023413856	Marionette	INFO	Marionette enabled
+1660023413858	Marionette	INFO	Listening on port 40613
+WebDriver BiDi listening on ws://localhost:57495
+Read port: 40613
+1660023413933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHmHdsT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57495/devtools/browser/331a1156-bdd5-450e-8d02-b492c3ad6cde
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1660023423238	Marionette	INFO	Stopped listening on port 40613
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660025801652	geckodriver	INFO	Listening on 127.0.0.1:60179
+1660025802155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNgjNMb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660025802709	Marionette	INFO	Marionette enabled
+1660025802711	Marionette	INFO	Listening on port 44653
+WebDriver BiDi listening on ws://localhost:50517
+Read port: 44653
+1660025802782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNgjNMb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50517/devtools/browser/8b969ff4-4a6e-429a-8318-e1ea3b9b9131
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+1660025811488	Marionette	INFO	Stopped listening on port 44653
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660027547697	geckodriver	INFO	Listening on 127.0.0.1:43309
+1660027548201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeIihRl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660027549036	Marionette	INFO	Marionette enabled
+1660027549040	Marionette	INFO	Listening on port 38661
+WebDriver BiDi listening on ws://localhost:44423
+Read port: 38661
+1660027549152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeIihRl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44423/devtools/browser/6be01482-e644-4b68-820b-7ae179832c4e
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660027564567	Marionette	INFO	Stopped listening on port 38661
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660027691765	geckodriver	INFO	Listening on 127.0.0.1:57003
+1660027692268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecDPTcF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660027693044	Marionette	INFO	Marionette enabled
+1660027693047	Marionette	INFO	Listening on port 43093
+WebDriver BiDi listening on ws://localhost:45575
+Read port: 43093
+1660027693164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecDPTcF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45575/devtools/browser/46419a89-ae45-463f-a9ed-0bd4553369d3
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660027714954	Marionette	INFO	Stopped listening on port 43093
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660027733465	geckodriver	INFO	Listening on 127.0.0.1:44851
+1660027733969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS5Qxos"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660027734784	Marionette	INFO	Marionette enabled
+1660027734787	Marionette	INFO	Listening on port 37353
+WebDriver BiDi listening on ws://localhost:50697
+Read port: 37353
+1660027734998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS5Qxos/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50697/devtools/browser/06f75c1b-a80f-4499-9285-4e109287f790
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660027753955	Marionette	INFO	Stopped listening on port 37353
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660028509241	geckodriver	INFO	Listening on 127.0.0.1:50165
+1660028509744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewhpKNu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660028510437	Marionette	INFO	Marionette enabled
+1660028510440	Marionette	INFO	Listening on port 41335
+WebDriver BiDi listening on ws://localhost:39493
+Read port: 41335
+1660028510540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewhpKNu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39493/devtools/browser/5d1bd36b-b612-46c4-b0c8-eabd7c1e44af
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660028529941	Marionette	INFO	Stopped listening on port 41335
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660028881887	geckodriver	INFO	Listening on 127.0.0.1:54205
+1660028882390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqkkrjF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660028883174	Marionette	INFO	Marionette enabled
+1660028883178	Marionette	INFO	Listening on port 46061
+WebDriver BiDi listening on ws://localhost:43797
+Read port: 46061
+1660028883287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqkkrjF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43797/devtools/browser/808b6035-7e06-4ac5-b291-33d51ce99242
+1660028909964	Marionette	INFO	Stopped listening on port 46061
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660037231495	geckodriver	INFO	Listening on 127.0.0.1:37887
+1660037231992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemB42yX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660037232710	Marionette	INFO	Marionette enabled
+1660037232713	Marionette	INFO	Listening on port 44809
+WebDriver BiDi listening on ws://localhost:50869
+Read port: 44809
+1660037232831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemB42yX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50869/devtools/browser/2e1328c8-6390-4a9d-b1d2-a9fe99c1055c
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660037257062	Marionette	INFO	Stopped listening on port 44809
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660040614076	geckodriver	INFO	Listening on 127.0.0.1:48011
+1660040614579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezPiX7h"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660040615139	Marionette	INFO	Marionette enabled
+1660040615142	Marionette	INFO	Listening on port 37271
+WebDriver BiDi listening on ws://localhost:44825
+Read port: 37271
+1660040615215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezPiX7h/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44825/devtools/browser/70ada653-7797-4bdf-b61e-e3b7c11b0f8c
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660040638632	Marionette	INFO	Stopped listening on port 37271
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660040858464	geckodriver	INFO	Listening on 127.0.0.1:50119
+1660040858967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL7Tmiq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660040859512	Marionette	INFO	Marionette enabled
+1660040859515	Marionette	INFO	Listening on port 46473
+WebDriver BiDi listening on ws://localhost:37501
+Read port: 46473
+1660040859657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileL7Tmiq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37501/devtools/browser/f0e4ddfa-bab7-4134-982d-debfcdf93227
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660040883296	Marionette	INFO	Stopped listening on port 46473
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660040993568	geckodriver	INFO	Listening on 127.0.0.1:40677
+1660040994071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNPh0ee"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660040994614	Marionette	INFO	Marionette enabled
+1660040994616	Marionette	INFO	Listening on port 32949
+WebDriver BiDi listening on ws://localhost:52411
+Read port: 32949
+1660040994758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNPh0ee/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52411/devtools/browser/34d2bbea-dd82-425c-b1be-2d335a5d1ade
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+1660041009853	Marionette	INFO	Stopped listening on port 32949
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660041068776	geckodriver	INFO	Listening on 127.0.0.1:42177
+1660041069279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6bBucy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041069850	Marionette	INFO	Marionette enabled
+1660041069853	Marionette	INFO	Listening on port 46505
+WebDriver BiDi listening on ws://localhost:34617
+Read port: 46505
+1660041069935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6bBucy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34617/devtools/browser/c7b709cd-8400-4148-b694-44945ba9ea59
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+1660041085023	Marionette	INFO	Stopped listening on port 46505
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660041106986	geckodriver	INFO	Listening on 127.0.0.1:58653
+1660041106988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXQtIpS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041107530	Marionette	INFO	Marionette enabled
+1660041107532	Marionette	INFO	Listening on port 37633
+WebDriver BiDi listening on ws://localhost:58831
+Read port: 37633
+1660041107674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXQtIpS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58831/devtools/browser/5eb23ad4-0fa1-48ee-b3cb-15fedc877a4b
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+1660041122845	Marionette	INFO	Stopped listening on port 37633
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660041157436	geckodriver	INFO	Listening on 127.0.0.1:40549
+1660041157938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSJ8e2B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041158477	Marionette	INFO	Marionette enabled
+1660041158479	Marionette	INFO	Listening on port 43997
+WebDriver BiDi listening on ws://localhost:54757
+Read port: 43997
+1660041158621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSJ8e2B/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54757/devtools/browser/2fb82fa5-8da4-4e51-8438-4b3f0ba67f00
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+1660041173031	Marionette	INFO	Stopped listening on port 43997
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660041196319	geckodriver	INFO	Listening on 127.0.0.1:42909
+1660041196822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenNdJvG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041197386	Marionette	INFO	Marionette enabled
+1660041197389	Marionette	INFO	Listening on port 36149
+WebDriver BiDi listening on ws://localhost:47827
+Read port: 36149
+1660041197465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenNdJvG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47827/devtools/browser/0d7181f0-172c-44fd-b22b-366983682975
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+1660041212271	Marionette	INFO	Stopped listening on port 36149
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1660041284064	geckodriver	INFO	Listening on 127.0.0.1:46985
+1660041284567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesLGwt3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041285105	Marionette	INFO	Marionette enabled
+1660041285107	Marionette	INFO	Listening on port 32925
+WebDriver BiDi listening on ws://localhost:47303
+Read port: 32925
+1660041285247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesLGwt3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47303/devtools/browser/0333bcf0-dee3-4ee1-a4de-26fe16ee97f2
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041306072	Marionette	INFO	Stopped listening on port 32925
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1660041336080	geckodriver	INFO	Listening on 127.0.0.1:43025
+1660041336583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLZWIVy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041337138	Marionette	INFO	Marionette enabled
+1660041337140	Marionette	INFO	Listening on port 36899
+WebDriver BiDi listening on ws://localhost:54211
+Read port: 36899
+1660041337216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLZWIVy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54211/devtools/browser/590bef71-da85-4be3-934d-4fdb45f1ab26
+JavaScript error: https://doit-api.powerit.dev/filament/assets/app.js?id=8561bb94452ab7fd77efab3a3b09a87a, line 487: NotSupportedError: CustomElementRegistry.define: 'hex-color-picker' has already been defined as a custom element
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://doit-api.powerit.dev"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660041361427	Marionette	INFO	Stopped listening on port 36899
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

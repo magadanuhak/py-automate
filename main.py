@@ -4,7 +4,7 @@ from Tests.Category.CategoryTest import CategoryTest
 
 drivers = [
     DriverService.get_chrome(),
-    DriverService.get_firefox(),
+    DriverService.get_firefox()
 ]
 
 tests = [
