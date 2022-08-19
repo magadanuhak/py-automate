@@ -1,6 +1,6 @@
 from Services.DriverService import DriverService
 from Services.RunnerService import RunnerService
-from Tests.Category.CategoryTest import CategoryTest
+from Tests.Modular.Category.CategoryTest import CategoryTest
 
 drivers = [
     DriverService.get_chrome()
